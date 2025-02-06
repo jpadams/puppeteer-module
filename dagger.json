@@ -1,0 +1,5 @@
+{
+  "name": "puppeteer-module",
+  "engineVersion": "v0.15.3",
+  "sdk": "typescript"
+}
